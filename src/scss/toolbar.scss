@@ -12,6 +12,7 @@
   position: absolute;
   display: flex;
   padding: 7px 10px;
+  margin: $margin-static-modules;
   .button {
     @include button(green)
   }
